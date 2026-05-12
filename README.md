@@ -1,4 +1,4 @@
-# PoE Ethernet Interface Board
+# Power over Ethernet(PoE) Development Board
 
 A Power over Ethernet interface board for connecting an ESP32 development board to wired Ethernet using a W5500 Ethernet controller.
 
